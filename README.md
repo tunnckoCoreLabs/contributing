@@ -15,9 +15,7 @@ Firstly, a ***heartfelt thank you*** for making time to contribute to this proje
 
 ## Communicating effectively
 
-Whether you're a one-time contributor or trying to join a community, working with others is one of the most important skills you'll develop in open source.
-
-Before you open an issue or pull request, or ask a question in chat, keep these points in mind to help your ideas come across effectively.
+Whether you're a one-time contributor or trying to join a community, working with others is one of the most important skills you'll develop in open source. Before you open an issue or pull request, or ask a question in chat, keep these points in mind to help your ideas come across effectively.
 
 **Give context.** Help others get quickly up to speed. If you're running into an error, explain what you're trying to do and how to reproduce it. If you're suggesting a new idea, explain why you think it'd be useful to the project (not just to you!).
 
@@ -66,9 +64,9 @@ Before doing anything, do a quick check to make sure your idea hasn't been discu
 
 If you can't find your idea elsewhere, you're ready to make a move. And because this project is on GitHub, you'll communicate by opening an issue or pull request:
 
-* **Issues** are like starting a conversation or discussion
-* **Pull requests** are for starting work on a solution
-* **For lightweight communication,** such as a clarifying or how-to question, try asking on support chat at Gitter or IRC.
+- **Issues** are like starting a conversation or discussion
+- **Pull requests** are for starting work on a solution
+- **For lightweight communication,** such as a clarifying or how-to question, try asking on support chat at Gitter or IRC.
 
 If you want to make a substantial contribution, open an issue to ask before working on it. It's helpful to watch the project for a while ([click the "Watch" button](https://help.github.com/articles/watching-repositories/) to be notified of all conversations), and get to know community members, before doing work that might not get accepted.
 
@@ -78,44 +76,45 @@ If you want to make a substantial contribution, open an issue to ask before work
 
 You should usually open an issue in the following situations:
 
-* Report an error you can't solve yourself
-* Discuss a high-level topic or idea (ex. community, vision, policies)
-* Propose a new feature or other project idea
+- Report an error you can't solve yourself
+- Discuss a high-level topic or idea (ex. community, vision, policies)
+- Propose a new feature or other project idea
 
 ### Tips for communicating on issues:
 
-* **If you see an open issue that you want to tackle,** comment on the issue to let people know you're on it. That way, people are less likely to duplicate your work.
-* **If an issue was opened a while ago,** it's possible that it's being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
-* **If you opened an issue, but figured out the answer later on your own,** comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
-* **Please be patient** and _wait_ a response from maintainer or somebody else. Check out [_"What to do next?"_]().
+- **If you see an open issue that you want to tackle,** comment on the issue to let people know you're on it. That way, people are less likely to duplicate your work.
+- **If an issue was opened a while ago,** it's possible that it's being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
+- **If you opened an issue, but figured out the answer later on your own,** comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
+- **Please be patient** and _wait_ a response from maintainer or somebody else. Check out [_"What to do next?"_]().
 
 ### Include Any/All _Relevant_ Information in the _Issue Description_
 
-* Please _include_ as much ***relevant information*** as you can like versions and operating system.
-* A _good_ issue _describes_ the idea in a _**concise** and **user-focused**_ way.
-* ***Never*** leave the issue _description_ blank even when you are in a "rush" - the point of issues is to _communicate_.
+- Please _include_ as much ***relevant information*** as you can like versions and operating system.
+- A _good_ issue _describes_ the idea in a _**concise** and **user-focused**_ way.
+- ***Never*** leave the issue _description_ blank even when you are in a "rush" - the point of issues is to _communicate_.
 
-**Why not empty description?** You _wouldn't_ send a _blank email_ to hundreds of your friends (_unless you wanted to freak them out!_), right? Submitting ***blank issues*** is doing _exactly_ that! It sends a ["_I have **no idea** what I'm doing_"](https://www.google.com/search?q=i+have+no+idea+what+i%27m+doing&tbm=isch) **message** to your **_peers_**.
+**Why not empty description?** You _wouldn't_ send a _blank email_ to hundreds of your friends (_unless you wanted to freak them out!_), right? Submitting _blank issues_ is doing **exactly** that! It sends a ["_I have **no idea** what I'm doing_"](https://www.google.com/search?q=i+have+no+idea+what+i%27m+doing&tbm=isch) **message** to your _peers_.
 
 <!-- Part 4 -->
 
 ## Opening a pull request
 
-> _If this is your first pull request, check out [Make a Pull Request](http://makeapullrequest.com/) by [@kentcdodds](https://github.com/kentcdodds)._
+> _If this is your first pull request, check out [Make a Pull Request](http://makeapullrequest.com/) by [**@kentcdodds**](https://github.com/kentcdodds)._
 
 ![get-it-done](https://cloud.githubusercontent.com/assets/194400/22265743/44a2ca72-e275-11e6-819d-2c5a1958ea11.png)
 
 You should usually open a pull request in the following situations:
 
-* Submit trivial fixes (ex. a typo, broken link, or obvious error)
-* Start work on a contribution that was already asked for, or that you've already discussed, in an issue
+- Submit trivial fixes (ex. a typo, broken link, or obvious error)
+- Start work on a contribution that was already asked for, or that you've already discussed, in an issue
 
 A pull request doesn't have to represent finished work. It's usually better to open a pull request early on, so others can watch or give feedback on your progress. Just mark it as a "WIP" (Work in Progress) in the subject line. You can always add more commits later.
 
 ### Pro Tips to follow
 
-* **Don't mind about the style** because we use [StandardJS](https://github.com/standard/standard), [ESLint](https://github.com/eslint/eslint) and [Prettier](https://github.com/prettier/prettier). Use `npm run lint` command.
-* **Don't change the markdown files**, because the README is generated (it isn't hand written) and the API section is from JSDoc code comments. Let this step to us when _and if_ pull request is merged.
+- **Don't mind about the style** because we use [StandardJS](https://github.com/standard/standard), [ESLint](https://github.com/eslint/eslint) and [Prettier](https://github.com/prettier/prettier). Use `npm run lint` command.
+- **Don't change the markdown files**, because the README is generated (it isn't hand written) and the API section is from JSDoc code comments. Let this step to us when _and if_ pull request is merged.
+- **Dont't comment tests**, instead use `test.skip`. They'll still be shown in the output, but are never run.
 
 ### How to submit a pull request
 
@@ -126,8 +125,7 @@ There are just **8 easy steps** you should do. _**Please**_, follow them in _tha
 3. **Install dependencies** by running `npm install` command.
 4. **Test everything is working** before you start _doing anything_ with `npm test` command. If something is wrong, please report it first and don't continue if you can't skip the problem easily.
 5. **Reference any relevant issues** or supporting documentation or information in your PR (ex. "Closes #37.")
-6. **Test your changes!** Run again `npm test` command to _make sure_ your changes don't break existing tests and please
-add new tests if needed. **Tip:** Use `test.skip()` function instead of `test()`.
+6. **Test again or add new ones!** Run `npm test` again to _make sure_ your changes don't break existing tests.
 7. **Commit your changes** by running `npm run commit` or `git commit`. It _will lead you_ through what the commit message should look like and will run more tasks to ensure that code style and tests are okey. 
 8. **Wait response!** What to do in that time? Check out [_**"What to do next?"**_]().
 
@@ -152,6 +150,6 @@ or what you just contributed, what is _upcoming soon_ to it!
 Because twitter is **great** for such _small_ bits.
 
 ### :sos: Help others :+1: 
-To help **a lot**: go on a _treasure hunt_ for an issue that _someone_ else created which has not had any comments... or has not been assigned to someone for investigation or work. This is **quite easy** to find by searching for a label: `help wanted` or such. It's _always great_ to get a response, so you may make someone **very happy**!
+To help **a lot**: go on a _treasure hunt_ for an issue that _someone_ else created which has not had any comments... or has not been assigned to someone for investigation or work. This is **quite easy** to find by searching for a label: `help wanted`. It's _always great_ to get a response, so you may make someone **very happy**!
 
 ![thank-you-green-large](https://cloud.githubusercontent.com/assets/194400/22229077/5b0695ee-e1cd-11e6-9001-e5ff53afce36.jpg)
