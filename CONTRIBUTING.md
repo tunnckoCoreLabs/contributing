@@ -82,7 +82,7 @@ There are just **8 easy steps** you should do. _**Please**_, follow them in _tha
 4. **Test everything is working** before you start _doing anything_ with `npm test` command. If something is wrong, please report it first and don't continue if you can't skip the problem easily.
 5. **Reference any relevant issues** or supporting documentation or information in your PR (ex. "Closes #37.")
 6. **Test again or add new ones!** Run `npm test` again to _make sure_ your changes don't break existing tests.
-7. **Commit your changes** by running `npm run commit` or `git commit`. It _will lead you_ through what the commit message should look like and will run more tasks to ensure that code style and tests are okey. 
+7. **Commit your changes** by running `npm run commit`. It _will lead you_ through what the commit message _should look like_ and will run more tasks **to ensure** that code style and tests are okey. 
 8. **Wait response!** What to do in that time? Check out [_**"What to do next?"**_](https://github.com/tunnckoCore/contributing#what-can-i-do-while-im-waiting).
 
 :star: **You did it**! :star: _Congratulations on becoming one of the [Open Source](https://opensource.guide) contributors!_
