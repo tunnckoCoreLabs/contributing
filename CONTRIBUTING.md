@@ -23,8 +23,8 @@ _What if you don’t know how to code?_ What if something goes wrong? **Don't wo
 
 **Even if you like to write code**, other types of contributions are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
 
-- **Yes:** [Step to the full guide]() if you are _new_, **super curious** _OR_ if you're **really really new** and need more depth.
-- **Not:** Then continue reading, if you **know** for _what is all that_ or you're **familiar** with [@tunnckoCore]() projects.
+- **Yes:** [Step to the full guide](https://github.com/tunnckoCore/contributing) if you are _new_, **super curious** _OR_ if you're **really really new** and need more depth.
+- **Not:** Then continue reading, if you **know** for _what is all that_ or you're **familiar** with [@tunnckoCore](https://github.com/tunnckoCore) projects.
 
 <!-- Part 2 -->
 
