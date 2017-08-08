@@ -11,6 +11,30 @@ Each and **every one** of us is **capable** of making such a **contribution**_.�
 
 Firstly, a ***heartfelt thank you*** for making time to contribute to this project! <br />
 
+## Table of Contents
+
+- [Are you new to Open Source?](#are-you-new-to-open-source)
+- [Communicating effectively](#communicating-effectively)
+  + [Give context](#give-context)
+  + [Do your homework beforehand](#do-your-homework-beforehand)
+  + [Keep requests short and direct](#keep-requests-short-and-direct)
+  + [Keep all communication public](#keep-all-communication-public)
+  + [It's okay to ask questions](#its-okey-to-ask-questions)
+  + [Respect community decisions](#respect-community-decisions)
+  + [Above all, keep it classy](#above-all-keep-it-classy)
+- [Gathering context](#gathering-context)
+- [Opening an issue](#opening-an-issue)
+  + [Tips for communicating on issues](#tips-for-communicating-on-issues)
+  + [Include any/all relevant information](#include-anyall-relevant-information-in-the-issue-description)
+- [Opening a pull request](#opening-a-pull-request)
+  + [Pro Tips to follow](#pro-tips-to-follow)
+  + [How to submit a pull request](#how-to-submit-a-pull-request)
+- [What can I do while i'm waiting](#what-can-i-do-while-im-waiting)
+  + [Star the project](#star-star-the-project-star-share-the-love)
+  + [Tweet about it](#heart-tweet-about-it-100)
+  + [Help others](#sos-help-others-1)
+- [Thank You!](#thank-you-very-much)
+
 <!-- Part 1 -->
 
 ## Are you new to Open Source?
@@ -22,11 +46,15 @@ _What if you don’t know how to code?_ What if something goes wrong? **Don't wo
 
 **Even if you like to write code**, other types of contributions are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
 
+:arrow_up: <a href="#table-of-contents">**Back to top**</a> :arrow_up:
+
 <!-- Part 2 -->
 
 ## Communicating effectively
 
 Whether you're a one-time contributor or trying to join a community, working with others is one of the most important skills you'll develop in open source. Before you open an issue or pull request, or ask a question in chat, keep these points in mind to help your ideas come across effectively.
+
+<a id="give-context"></a>
 
 **Give context.** Help others get quickly up to speed. If you're running into an error, explain what you're trying to do and how to reproduce it. If you're suggesting a new idea, explain why you think it'd be useful to the project (not just to you!).
 
@@ -34,11 +62,15 @@ Whether you're a one-time contributor or trying to join a community, working wit
 > 
 > 😢 _"X is broken! Please fix it."_
 
+<a id="do-your-homework-beforehand"></a>
+
 **Do your homework beforehand.** It's OK not to know things, but show that you tried. Before asking for help, be sure to check a project's README, documentation, issues (open or closed), mailing list, and search the internet for an answer. People will appreciate when you demonstrate that you're trying to learn.
 
 > 😇 _"I'm not sure how to implement X. I checked the help docs and didn't find any mentions."_
 > 
 > 😢 _"How do I X?"_
+
+<a id="keep-requests-short-and-direct"></a>
 
 **Keep requests short and direct.** Much like sending an email, every contribution, no matter how simple or helpful, requires someone else's review. Many projects have more incoming requests than people available to help. Be concise. You will increase the chance that someone will be able to help you.
 
@@ -46,11 +78,17 @@ Whether you're a one-time contributor or trying to join a community, working wit
 > 
 > 😢 _"I was driving down the highway the other day and stopped for gas, and then I had this amazing idea for something we should be doing, but before I explain that, let me show you..."_
 
+:arrow_up: <a href="#table-of-contents">**Back to top**</a> :arrow_up:
+
+<a id="keep-all-communication-public"></a>
+
 **Keep all communication public.** Although it's tempting, don't reach out to maintainers privately unless you need to share sensitive information (such as a security issue or serious conduct violation). When you keep the conversation public, more people can learn and benefit from your exchange. Discussions can be, in themselves, contributions.
 
 > 😇 _(as a comment) "@-maintainer Hi there! How should we proceed on this PR?"_
 > 
 > 😢 _(as an email) "Hey there, sorry to bother you over email, but I was wondering if you've had a chance to review my PR"_
+
+<a id="its-okey-to-ask-questions"></a>
 
 **It's okay to ask questions (but be patient!).** Everybody was new to the project at some point, and even experienced contributors need to get up to speed when they look at a new project. By the same token, even longtime maintainers are not always familiar with every part of the project. Show them the same patience that you'd want them to show to you.
 
@@ -58,13 +96,19 @@ Whether you're a one-time contributor or trying to join a community, working wit
 > 
 > 😢 _"Why can't you fix my problem? Isn't this your project?"_
 
+<a id="respect-community-decisions"></a>
+
 **Respect community decisions.** Your ideas may differ from the community's priorities or vision. They may offer feedback or decide not to pursue your idea. While you should discuss and look for compromise, maintainers have to live with your decision longer than you will. If you disagree with their direction, you can always work on your own fork or start your own project.
 
 > 😇 _"I'm disappointed you can't support my use case, but as you've explained it only affects a minor portion of users, I understand why. Thanks for listening."_
 > 
 > 😢 _"Why won't you support my use case? This is unacceptable!"_
 
+<a id="above-all-keep-it-classy"></a>
+
 **Above all, keep it classy.** Open source is made up of collaborators from all over the world. Context gets lost across languages, cultures, geographies, and time zones. In addition, written communication makes it harder to convey a tone or mood. Assume good intentions in these conversations. It's fine to politely push back on an idea, ask for more context, or further clarify your position. Just try to leave the internet a better place than when you found it.
+
+:arrow_up: <a href="#table-of-contents">**Back to top**</a> :arrow_up:
 
 <!-- Part 3 -->
 
@@ -80,6 +124,8 @@ If you can't find your idea elsewhere, you're ready to make a move. And because 
 - **For lightweight communication,** such as a clarifying or how-to question, try asking on support chat at Gitter or IRC.
 
 If you want to make a substantial contribution, open an issue to ask before working on it. It's helpful to watch the project for a while ([click the "Watch" button](https://help.github.com/articles/watching-repositories/) to be notified of all conversations), and get to know community members, before doing work that might not get accepted.
+
+:arrow_up: <a href="#table-of-contents">**Back to top**</a> :arrow_up:
 
 <!-- Part 4 -->
 
@@ -105,6 +151,8 @@ You should usually open an issue in the following situations:
 - ***Never*** leave the issue _description_ blank even when you are in a "rush" - the point of issues is to _communicate_.
 
 **Why not empty description?** You _wouldn't_ send a _blank email_ to hundreds of your friends (_unless you wanted to freak them out!_), right? Submitting _blank issues_ is doing **exactly** that! It sends a ["_I have **no idea** what I'm doing_"](https://www.google.com/search?q=i+have+no+idea+what+i%27m+doing&tbm=isch) **message** to your _peers_.
+
+:arrow_up: <a href="#table-of-contents">**Back to top**</a> :arrow_up:
 
 <!-- Part 5 -->
 
@@ -142,6 +190,8 @@ There are just **8 easy steps** you should do. _**Please**_, follow them in _tha
 
 :star: **You did it**! :star: _Congratulations on becoming one of the [Open Source](https://opensource.guide) contributors!_
 
+:arrow_up: <a href="#table-of-contents">**Back to top**</a> :arrow_up:
+
 <!-- Part 6 -->
 
 ## What can I do `while` I'm _waiting_?
@@ -162,5 +212,9 @@ Because twitter is **great** for such _small_ bits.
 
 ### :sos: Help others :+1: 
 To help **a lot**: go on a _treasure hunt_ for an issue that _someone_ else created which has not had any comments... or has not been assigned to someone for investigation or work. This is **quite easy** to find by searching for a label: `help wanted`. It's _always great_ to get a response, so you may make someone **very happy**!
+
+:arrow_up: <a href="#table-of-contents">**Back to top**</a> :arrow_up:
+
+<a id="thank-you-very-much"></a>
 
 ![thank-you-green-large](https://cloud.githubusercontent.com/assets/194400/22229077/5b0695ee-e1cd-11e6-9001-e5ff53afce36.jpg)
