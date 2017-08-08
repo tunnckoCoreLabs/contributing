@@ -13,6 +13,17 @@ Firstly, a ***heartfelt thank you*** for making time to contribute to this proje
 
 <!-- Part 1 -->
 
+## Are you new to Open Source?
+
+If you’re a **new** open source contributor, the process can be intimidating.  
+_What if you don’t know how to code?_ What if something goes wrong? **Don't worry!**
+
+**You don’t have to contribute code!** A common misconception about contributing to open source is that you need to _contribute code_. In fact, it’s often the other parts of a project that are most neglected or overlooked. You’ll do the project a _huge favor_ by offering to pitch in with these types of **contributions**!
+
+**Even if you like to write code**, other types of contributions are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
+
+<!-- Part 2 -->
+
 ## Communicating effectively
 
 Whether you're a one-time contributor or trying to join a community, working with others is one of the most important skills you'll develop in open source. Before you open an issue or pull request, or ask a question in chat, keep these points in mind to help your ideas come across effectively.
@@ -55,7 +66,7 @@ Whether you're a one-time contributor or trying to join a community, working wit
 
 **Above all, keep it classy.** Open source is made up of collaborators from all over the world. Context gets lost across languages, cultures, geographies, and time zones. In addition, written communication makes it harder to convey a tone or mood. Assume good intentions in these conversations. It's fine to politely push back on an idea, ask for more context, or further clarify your position. Just try to leave the internet a better place than when you found it.
 
-<!-- Part 2 -->
+<!-- Part 3 -->
 
 ## Gathering context
 ![context-matters](https://user-images.githubusercontent.com/5038030/29050103-7f3635aa-7be2-11e7-89ba-1682a09d1d48.gif)
@@ -70,7 +81,7 @@ If you can't find your idea elsewhere, you're ready to make a move. And because 
 
 If you want to make a substantial contribution, open an issue to ask before working on it. It's helpful to watch the project for a while ([click the "Watch" button](https://help.github.com/articles/watching-repositories/) to be notified of all conversations), and get to know community members, before doing work that might not get accepted.
 
-<!-- Part 3 -->
+<!-- Part 4 -->
 
 ## Opening an issue
 
@@ -95,7 +106,7 @@ You should usually open an issue in the following situations:
 
 **Why not empty description?** You _wouldn't_ send a _blank email_ to hundreds of your friends (_unless you wanted to freak them out!_), right? Submitting _blank issues_ is doing **exactly** that! It sends a ["_I have **no idea** what I'm doing_"](https://www.google.com/search?q=i+have+no+idea+what+i%27m+doing&tbm=isch) **message** to your _peers_.
 
-<!-- Part 4 -->
+<!-- Part 5 -->
 
 ## Opening a pull request
 
@@ -131,7 +142,7 @@ There are just **8 easy steps** you should do. _**Please**_, follow them in _tha
 
 :star: **You did it**! :star: _Congratulations on becoming one of the [Open Source](https://opensource.guide) contributors!_
 
-<!-- Part 5 -->
+<!-- Part 6 -->
 
 ## What can I do `while` I'm _waiting_?
 

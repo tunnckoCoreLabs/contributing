@@ -14,10 +14,17 @@ Firstly, a ***heartfelt thank you*** for making time to contribute to this proje
 
 <!-- Part 1 -->
 
-## Are you experienced or familiar?
+## Are you new to Open Source?
 
-- **No:** [Step to the full guide]() if you are _new_, **super curious** _OR_ if you're **really new** and need more depth.
-- **Yes:** Continue reading, if you **know** for _what is all that_ or you're **familiar** with [@tunnckoCore]() projects.
+If you’re a **new** open source contributor, the process can be intimidating.  
+_What if you don’t know how to code?_ What if something goes wrong? **Don't worry!**
+
+**You don’t have to contribute code!** A common misconception about contributing to open source is that you need to _contribute code_. In fact, it’s often the other parts of a project that are most neglected or overlooked. You’ll do the project a _huge favor_ by offering to pitch in with these types of **contributions**!
+
+**Even if you like to write code**, other types of contributions are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
+
+- **Yes:** [Step to the full guide]() if you are _new_, **super curious** _OR_ if you're **really really new** and need more depth.
+- **Not:** Then continue reading, if you **know** for _what is all that_ or you're **familiar** with [@tunnckoCore]() projects.
 
 <!-- Part 2 -->
 
@@ -34,7 +41,7 @@ You should usually open an issue in the following situations:
 - **If you see an open issue that you want to tackle,** comment on the issue to let people know you're on it. That way, people are less likely to duplicate your work.
 - **If an issue was opened a while ago,** it's possible that it's being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
 - **If you opened an issue, but figured out the answer later on your own,** comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
-- **Please be patient** and _wait_ a response from maintainer or somebody else. Check out [_"What to do next?"_](#what-can-i-do-while-im-waiting).
+- **Please be patient** and _wait_ a response from maintainer or somebody else. Check out [_"What to do next?"_](https://github.com/tunnckoCore/contributing#what-can-i-do-while-im-waiting).
 
 ### Include Any/All _Relevant_ Information in the _Issue Description_
 
@@ -76,7 +83,7 @@ There are just **8 easy steps** you should do. _**Please**_, follow them in _tha
 5. **Reference any relevant issues** or supporting documentation or information in your PR (ex. "Closes #37.")
 6. **Test again or add new ones!** Run `npm test` again to _make sure_ your changes don't break existing tests.
 7. **Commit your changes** by running `npm run commit` or `git commit`. It _will lead you_ through what the commit message should look like and will run more tasks to ensure that code style and tests are okey. 
-8. **Wait response!** What to do in that time? Check out [_**"What to do next?"**_](#what-can-i-do-while-im-waiting).
+8. **Wait response!** What to do in that time? Check out [_**"What to do next?"**_](https://github.com/tunnckoCore/contributing#what-can-i-do-while-im-waiting).
 
 :star: **You did it**! :star: _Congratulations on becoming one of the [Open Source](https://opensource.guide) contributors!_
 
