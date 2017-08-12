@@ -72,7 +72,7 @@ Whether you're a one-time contributor or trying to join a community, working wit
 
 <a id="keep-requests-short-and-direct"></a>
 
-**Keep requests short and direct.** Much like sending an email, every contribution, no matter how simple or helpful, requires someone else's review. Many projects have more incoming requests than people available to help. Be concise. You will increase the chances of someone helping you.
+**Keep requests short and direct.** Much like sending an email, every contribution, no matter how simple or helpful, requires someone else's review. Many projects have more incoming requests than people available to help. Be concise. You will increase the chance that someone will be able to help you.
 
 > 😇 _"I'd like to write an API tutorial."_
 > 
@@ -142,7 +142,7 @@ You should usually open an issue in the following situations:
 - **If you see an open issue that you want to tackle,** comment on the issue to let people know you're on it. That way, people are less likely to duplicate your work.
 - **If an issue was opened a while ago,** it's possible that it's being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
 - **If you opened an issue, but figured out the answer later on your own,** comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
-- **Please be patient** and _wait_ for a response from the maintainer or somebody else. Check out [_"What to do next?"_](https://github.com/tunnckoCore/contributing#what-can-i-do-while-im-waiting).
+- **Please be patient** and _wait_ for a response from maintainer or somebody else. Check out [_"What to do next?"_](#what-can-i-do-while-im-waiting).
 
 ### Include Any/All _Relevant_ Information in the _Issue Description_
 
@@ -212,7 +212,7 @@ Ping your peers **at Twitter** about your thoughts on the project
 Twitter is **great** for these _small_ bits.
 
 ### :sos: Help others :+1: 
-To help **a lot**: go on a _treasure hunt_ for an issue that _someone_ else created which has not had any comments... or has not been assigned to someone for investigation or work. This is **quite easy** to find by searching for a label: `help wanted`. It's _always great_ to get a response, and you may make someone **very happy**!
+To help **a lot**: go on a _treasure hunt_ for an issue that _someone_ else created which has not had any comments... or has not been assigned to someone for investigation or work. This is **quite easy** to find by searching for a label: `help wanted`. It's _always great_ to get a response, and so you may make someone **very happy**!
 
 :arrow_up: <a href="#table-of-contents">**Back to top**</a> :arrow_up:
 
