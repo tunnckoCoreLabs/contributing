@@ -172,9 +172,9 @@ A pull request doesn't have to represent finished work. It's usually better to o
 
 ### Pro Tips to follow
 
-- **Don't worry about the style** because we use [StandardJS](https://github.com/standard/standard), [ESLint](https://github.com/eslint/eslint) and [Prettier](https://github.com/prettier/prettier). Use the `npm run lint` command.
-- **Don't change the markdown files**, because the README is generated (it isn't hand written) and the API section is from JSDoc code comments. Leave this step to us when, _and if_, the pull request is merged.
-- **Don't comment out tests**, instead use `test.skip`. They'll still be shown in the output, but are never run.
+- **Don't worry about the style.** We are the [AirBnB Style Guide](https://github.com/airbnb/javascript) through [ESLint](https://github.com/eslint/eslint) in combination with [Prettier](https://github.com/prettier/prettier).
+- **Don't change the markdown files.** The README.md is generated and the API section is from JSDoc code comments.
+- **Don't comment out tests.** Use `test.skip`. They still will be shown in the output, but are never ran.
 
 ### How to submit a pull request
 
@@ -182,7 +182,7 @@ There are just **8 easy steps** you should do. _**Please**_, follow them in _tha
 
 1. **[Fork the repository](https://guides.github.com/activities/forking/)** and clone it locally.
 2. **[Create a branch](https://guides.github.com/introduction/flow/)** for your edits.
-3. **Install dependencies** by running the `npm install` command.
+3. **Install dependencies** by running the `npm install` command. If the next step fails, try `yarn install` then.
 4. **Test if everything is working** before you start _doing anything_ with the `npm test` command. If something is wrong, please report it first and don't continue if you can't skip the problem easily.
 5. **Reference any relevant issues**, supporting documentation or information in your PR (ex. "Closes #37.")
 6. **Test again or add new ones!** Run `npm test` again to _make sure_ your changes don't break existing tests.
