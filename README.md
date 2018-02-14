@@ -172,9 +172,9 @@ A pull request doesn't have to represent finished work. It's usually better to o
 
 ### Pro Tips to follow
 
-- **Don't worry about the style.** We are the [AirBnB Style Guide](https://github.com/airbnb/javascript) through [ESLint](https://github.com/eslint/eslint) in combination with [Prettier](https://github.com/prettier/prettier).
+- **Don't worry about the style.** We follow the [AirBnB Style Guide](https://github.com/airbnb/javascript) through [ESLint](https://github.com/eslint/eslint) in combination with [Prettier](https://github.com/prettier/prettier).
 - **Don't change the markdown files.** The README.md is generated and the API section is from JSDoc code comments.
-- **Don't comment out tests.** Use `test.skip`. They still will be shown in the output, but are never ran.
+- **Don't comment out tests.** Replace `test` function with `test.skip`. So they won't run, but still will be shown.
 
 ### How to submit a pull request
 
