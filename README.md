@@ -178,15 +178,17 @@ A pull request doesn't have to represent finished work. It's usually better to o
 
 ### How to submit a pull request
 
+> _Make sure that you have the [Yarn Package Manager](https://yarnpkg.org) installed on your system. With NPM you still can do the things, but tests may fail, due to different folder structures and resolving mechanisms._
+
 There are just **8 easy steps** you should do. _**Please**_, follow them in _that exact_ order.
 
 1. **[Fork the repository](https://guides.github.com/activities/forking/)** and clone it locally.
 2. **[Create a branch](https://guides.github.com/introduction/flow/)** for your edits.
-3. **Install dependencies** by running the `npm install` command. If the next step fails, try `yarn install` then.
-4. **Test if everything is working** before you start _doing anything_ with the `npm test` command. If something is wrong, please report it first and don't continue if you can't skip the problem easily.
+3. **Install dependencies** by running the `yarn install` command.
+4. **Test if everything is working** before you start _doing anything_ with the `yarn test` command. If something is wrong, please report it first and don't continue if you can't skip the problem easily.
 5. **Reference any relevant issues**, supporting documentation or information in your PR (ex. "Closes #37.")
-6. **Test again or add new ones!** Run `npm test` again to _make sure_ your changes don't break existing tests.
-7. **Commit your changes** by running `npm run commit`. It _will lead you_ through what the commit message _should look like_ and will run more tasks **to ensure** that code style and tests are okey. 
+6. **Test again or add new ones!** Run `yarn test` again to _make sure_ your changes don't break existing tests. Try to write them, but _don't worry_ to commit them failing! We can finish them _together_ in the Pull Request.
+7. **Commit your changes** by running `yarn commit`. It _will lead you_ through what the commit message _should look like_ and will run more tasks **to ensure** that code style and tests are okey. 
 8. **Wait response!** What to do in that time? Check out [_**"What to do next?"**_](#what-can-i-do-while-im-waiting).
 
 :star: **You did it**! :star: _Congratulations on becoming one of the [Open Source](https://opensource.guide) contributors!_
