@@ -181,7 +181,7 @@ There are just **8 easy steps** you should do. _**Please**_, follow them in _tha
 4. **Test if everything is working** before you start _doing anything_ with the `yarn test` command. If something is wrong, please report it first and don't continue if you can't skip the problem easily.
 5. **Reference any relevant issues**, supporting documentation or information in your PR (ex. "Closes #37.")
 6. **Test again or add new ones!** Run `yarn test` again to _make sure_ your changes don't break existing tests. Try to write them, but _don't worry_ to commit them failing! We can finish them _together_ in the Pull Request.
-7. **Commit your changes** by running `yarn commit`. It _will lead you_ through what the commit message _should look like_ and will run more tasks **to ensure** that code style and tests are okey. If there's no such command, consider using [gitcommit](https://www.npmjs.com/package/gitcommit) package which interactive thin wrapper on top of original `git commit`.
+7. **Commit your changes** by running `yarn commit`. It _will lead you_ through what the commit message _should look like_ and will run more tasks **to ensure** that code style and tests are okey. If there is no such command, consider suggesting the [gitcommit](https://www.npmjs.com/package/gitcommit) package to the maintainers, which is interactive thin wrapper on top of original `git commit`.
 8. **Wait response!** What to do in that time? Check out [_**"What to do next?"**_](#what-can-i-do-while-im-waiting).
 
 :star: **You did it**! :star: _Congratulations on becoming one of the [Open Source](https://opensource.guide) contributors!_
