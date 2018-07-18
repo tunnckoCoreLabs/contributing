@@ -27,7 +27,6 @@ Firstly, a ***heartfelt thank you*** for making time to contribute to this proje
   + [Tips for communicating on issues](#tips-for-communicating-on-issues)
   + [Include any/all relevant information](#include-anyall-relevant-information-in-the-issue-description)
 - [Opening a pull request](#opening-a-pull-request)
-  + [Pro Tips to follow](#pro-tips-to-follow)
   + [How to submit a pull request](#how-to-submit-a-pull-request)
 - [What can I do while i'm waiting](#what-can-i-do-while-im-waiting)
   + [Star the project](#star-star-the-project-star-share-the-love)
@@ -170,12 +169,6 @@ You should usually open a pull request in the following situations:
 
 A pull request doesn't have to represent finished work. It's usually better to open a pull request early on, so others can watch or give feedback on your progress. Just mark it as a "WIP" (Work in Progress) in the subject line. You can always add more commits later.
 
-### Pro Tips to follow
-
-- **Don't worry about the style.** We follow the [AirBnB Style Guide](https://github.com/airbnb/javascript) through [ESLint](https://github.com/eslint/eslint) in combination with [Prettier](https://github.com/prettier/prettier).
-- **Don't change the markdown files.** The README.md is generated and the API section is from JSDoc code comments.
-- **Don't comment out tests.** Replace `test` function with `test.skip`. So they won't run, but still will be shown.
-
 ### How to submit a pull request
 
 > _Make sure that you have the [Yarn Package Manager](https://yarnpkg.org) installed on your system. With NPM you still can do the things, but tests may fail, due to different folder structures and resolving mechanisms._
@@ -188,7 +181,7 @@ There are just **8 easy steps** you should do. _**Please**_, follow them in _tha
 4. **Test if everything is working** before you start _doing anything_ with the `yarn test` command. If something is wrong, please report it first and don't continue if you can't skip the problem easily.
 5. **Reference any relevant issues**, supporting documentation or information in your PR (ex. "Closes #37.")
 6. **Test again or add new ones!** Run `yarn test` again to _make sure_ your changes don't break existing tests. Try to write them, but _don't worry_ to commit them failing! We can finish them _together_ in the Pull Request.
-7. **Commit your changes** by running `yarn commit`. It _will lead you_ through what the commit message _should look like_ and will run more tasks **to ensure** that code style and tests are okey. 
+7. **Commit your changes** by running `yarn commit`. It _will lead you_ through what the commit message _should look like_ and will run more tasks **to ensure** that code style and tests are okey. If there's no such command, consider using [gitcommit](https://www.npmjs.com/package/gitcommit) package which interactive thin wrapper on top of original `git commit`.
 8. **Wait response!** What to do in that time? Check out [_**"What to do next?"**_](#what-can-i-do-while-im-waiting).
 
 :star: **You did it**! :star: _Congratulations on becoming one of the [Open Source](https://opensource.guide) contributors!_
